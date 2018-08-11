@@ -16,3 +16,9 @@ Aeotec Multisensor 6  (Z-Wave)<br>
 Other Integrations:<br>
 Fibit<br>
 Nokia Body Scale (Withings)<br>
+<br>
+<br>
+<br>
+What i really want to connect up:<br>
+Høiax Underfloor heating (probably need to replace main unit)<br>
+Btcino video door entry SCSbus - Need gateway<br>
